@@ -1,0 +1,61 @@
+.main-page {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #333;
+  box-sizing: border-box;
+  border: 10px dashed powderblue;
+}
+
+.new-year {
+  font-size: 1.3rem;
+  font-weight: bold;
+  display: block;
+  margin-top: 2rem;
+}
+
+.main-text {
+  font-size: 6.2rem;
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  color: tomato;
+  text-shadow: -5px 5px rgb(226, 217, 86);
+}
+
+.start {
+  position:relative;
+  z-index: 9999;
+}
+
+.start > p {
+  text-align: center;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+.start > .pang {
+  display: block;
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+.start-button {
+  width: 100%;
+  border: none;
+  outline: none;
+  background-color: rgb(114, 196, 207);
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.5rem;
+  border-radius: 7px;
+  padding: 0.7rem 0.5rem;
+  margin-top: 1rem;
+  transition: 0.2s;
+}
+
+.start-button:hover {
+  background-color: tomato;
+}
