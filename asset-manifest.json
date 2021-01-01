@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pangpang/static/css/main.cf23d3e5.chunk.css",
-    "main.js": "/pangpang/static/js/main.f01ea328.chunk.js",
-    "main.js.map": "/pangpang/static/js/main.f01ea328.chunk.js.map",
+    "main.css": "/pangpang/static/css/main.ddc617d7.chunk.css",
+    "main.js": "/pangpang/static/js/main.503554d3.chunk.js",
+    "main.js.map": "/pangpang/static/js/main.503554d3.chunk.js.map",
     "runtime-main.js": "/pangpang/static/js/runtime-main.b5010db8.js",
     "runtime-main.js.map": "/pangpang/static/js/runtime-main.b5010db8.js.map",
-    "static/js/2.5771a990.chunk.js": "/pangpang/static/js/2.5771a990.chunk.js",
-    "static/js/2.5771a990.chunk.js.map": "/pangpang/static/js/2.5771a990.chunk.js.map",
+    "static/js/2.96b49078.chunk.js": "/pangpang/static/js/2.96b49078.chunk.js",
+    "static/js/2.96b49078.chunk.js.map": "/pangpang/static/js/2.96b49078.chunk.js.map",
     "static/js/3.98a0e111.chunk.js": "/pangpang/static/js/3.98a0e111.chunk.js",
     "static/js/3.98a0e111.chunk.js.map": "/pangpang/static/js/3.98a0e111.chunk.js.map",
     "index.html": "/pangpang/index.html",
-    "static/css/main.cf23d3e5.chunk.css.map": "/pangpang/static/css/main.cf23d3e5.chunk.css.map",
-    "static/js/2.5771a990.chunk.js.LICENSE.txt": "/pangpang/static/js/2.5771a990.chunk.js.LICENSE.txt"
+    "static/css/main.ddc617d7.chunk.css.map": "/pangpang/static/css/main.ddc617d7.chunk.css.map",
+    "static/js/2.96b49078.chunk.js.LICENSE.txt": "/pangpang/static/js/2.96b49078.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b5010db8.js",
-    "static/js/2.5771a990.chunk.js",
-    "static/css/main.cf23d3e5.chunk.css",
-    "static/js/main.f01ea328.chunk.js"
+    "static/js/2.96b49078.chunk.js",
+    "static/css/main.ddc617d7.chunk.css",
+    "static/js/main.503554d3.chunk.js"
   ]
 }
